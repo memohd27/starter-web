@@ -9,9 +9,11 @@ This repository is for showing how Git and GitHub work
 This is example is to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
-
+a stated above, the main porpouse is to provide simple example for Git training demos.
 
 ## Deployment
+
+This is a simple web project, deployment can be an any web server or even local file system.
 
 ## How to contribute
 Sample website with plenty of files for demos
