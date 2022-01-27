@@ -1,2 +1,7 @@
 *.bak
 log
+*.orig
+*_BACKUP*.html
+*_BASE*.html
+*_LOCAL*.html
+*_REMOTE*.html
