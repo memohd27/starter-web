@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-this is a simple website project for showing how to use git and github together. adding a line for rebasing example, then
-more changes from myfeature branch too.
+this is a simple website project for showing how to use git and github together. Updating for emergency fix after stashing.
 
 This repository is for showing how Git and GitHub work
 
